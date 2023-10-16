@@ -1,0 +1,32 @@
+DR-001
+Amalia Jean
+CEO
+10000090
+DR-002
+Fran�ois Martin
+Directeur
+9500090
+SC-001
+Malala Jhon
+Secretaire
+90090
+SC-002
+Nathalie LeBlanc
+Secretaire
+90100
+DR-002
+Layla Khaled
+Directrice
+9600090
+CP-001
+Marc Pierre
+Comptable
+85090
+CP-002
+Nora Eilish
+Comptable
+85090
+SR-001
+Paul Martin
+Securite
+50090

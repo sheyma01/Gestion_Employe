@@ -1,0 +1,11 @@
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\bin\Debug\prjExamFinal.exe.config
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\bin\Debug\prjExamFinal.exe
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\bin\Debug\prjExamFinal.pdb
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.csproj.AssemblyReference.cache
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.frmExamFinal.resources
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.Properties.Resources.resources
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.csproj.GenerateResource.cache
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.csproj.CoreCompileInputs.cache
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.exe
+C:\Users\chaim\source\repos\prjExamFinal\prjExamFinal\obj\Debug\prjExamFinal.pdb
